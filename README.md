@@ -2,12 +2,12 @@
 
 ## Problem Statement of the assignment: 
 
-## You need to install the MYSQL database on kubernetes using kubernetes artifact files i.e 
-# mysql-deployment.yaml 
-# mysql-configmap.yaml
-# mysql-service.yaml
-# mysql-secret.yaml 
-# —------------------------------------------------------------------------------------------------------------------------
+You need to install the MYSQL database on kubernetes using kubernetes artifact files i.e 
+mysql-deployment.yaml 
+mysql-configmap.yaml
+mysql-service.yaml
+mysql-secret.yaml 
+—------------------------------------------------------------------------------------------------------------------------
 
 Steps Followed:
 
